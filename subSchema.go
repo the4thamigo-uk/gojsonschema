@@ -31,7 +31,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/johandorland/gojsonreference"
 )
 
 const (
